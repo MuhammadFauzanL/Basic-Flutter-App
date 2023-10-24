@@ -2,14 +2,15 @@
 Pembuatan aplikasi ini dibentuk karena kita sebagai Mahasiswa biasanya memiliki kendala pada masalah pengeluaran uang pada setiap harinya,terkadang kita terlalu banyak menghabiskan uang yang kita miliki namun tidak mengetahui bahwa uang yang dikeluarkan berapa nominalnya dan kemana perginya, dengan itu kita membutuhkan aplikasi ini untuk mengatur uang yang masuk dan keluar agar tidak berlebihan 
 
 ## 1.2. Deksripsi Teknologi Informasi
-Aplikasi pencatat keuangan ini seperti pada umumnya untuk mencatat keuangan seseorang yang masuk dan keluarnya uang,didalam aplikasi ini memiliki beberapa fitur diantaaranya  Memiliki, pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya, fitur tabungan untuk mencatat penyimpanan uang. Selanjutnya fitu pada pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar user mudah dalam menggunakan
-, lalu terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya ,dan terakhir Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
+Aplikasi pencatat keuangan ini seperti aplikasi pencatat pada umumnya untuk mencatat keuangan seseorang yang masuk dan keluarnya uang,kita dapat menambahkan ,mengedit ,dan menghapus data kita dalam catatatn keuagangan kita  ,didalam aplikasi ini memiliki beberapa fitur diantaaranya, memiliki pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya, fitur tabungan untuk mencatat penyimpanan uang, lalu terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya ,dan terakhir Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 
 
 ## 1.3. Branding
-
-bla bla bla
-
+1. Memiliki fitur pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya
+2. fitur tabungan untuk setiap bulannya yang akan dipotong setiap uang yang masuk dalam 1 hari tiap bulanya
+3.pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar user mudah dalam menggunakan
+4.Terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya
+5. Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 ## 2. User Story
 
 bla | bla | bla | bla
