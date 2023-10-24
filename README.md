@@ -1,1 +1,1 @@
-# PengenanlanINFORMATIKA
+# PengenalanINFORMATIKA
