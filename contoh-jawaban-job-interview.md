@@ -1,6 +1,6 @@
 ## 1.1 Latar Belakang
 
-bla bla bla
+Pembuatan aplikasi ini dibentuk karena kita sebagai Mahasiswa biasanya memiliki kendala pada masalah pengeluaran uang pada setiap harinya,terkadang kita terlalu banyak menghabiskan uang yang kita miliki namun tidak mengetahui bahwa uang yang dikeluarkan digunakan untuk apa dan berapa nominalnya, dengan itu kita membutuhkan aplikasi ini untuk mengatur uang yang masuk dan keluar agar tidak berlebihan 
 
 ## 1.2. Deksripsi Teknologi Informasi
 
