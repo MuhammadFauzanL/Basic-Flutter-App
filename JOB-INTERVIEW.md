@@ -12,12 +12,12 @@ yanh di desain dengan  iterface yang sederhana membantu pengguna dalam menggunak
 
 Dengan Applikasi "Where'App" anda mendapaatkan keunggulan sebagai berikut.
       Menyimpan Keuangan  : "Where's App dapat membantu Anda menambahkan ,mengedit ,dan menghapus data anda yang sudah tidak terpakai lagi
-      Menjaga Keuangan    : dengan aplikasi anda memiliki pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan                  pengguna anda akan diberikan peringatan untuk menjaga pengeluarannya agar keuangan anda tetap terjaga.
-      Menganalisis Keuangan : dengan "Where's App"Anda dapat melihat pembanding pengeluaran tiap bulan atau tiap tahuunnya dengan data berbentuk charts          ,dan anda dapat menjelajah   history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
+      Menjaga Keuangan    : dengan aplikasi anda memiliki pembatas keluarnya pengeluaran , dan pengguna anda diberikan peringatan untuk menjaga                  pengeluarannya agar keuangan anda tetap terjaga.
+      Menganalisis Keuangan : dengan "Where's App"Anda dapat melihat pembanding pengeluaran tiap bulan atau tiap tahuunnya ,dan anda dapat menjelajah            history uang yang masuk atau keluar 
 
 
 ## 1.3. Branding
-Aplikasi ini Memiliki fitur yang membantu para usernya supaya pengguna dapat merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi Where's App ini  diantarnya terdapat 
+Aplikasi "Where's App" Memiliki fitur yang membantu para usernya supaya pengguna dapat merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi "Where's App"ini  diantarnya terdapat :
 1.fitur pembatas keuangan, fitur ini berfungsi sebagai pembatas keluarnya pengeluaran berbentuk persentase, jika pengguna melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya, fitur ini berfungsi agar pengguna dapat menjaga pengeluarnya uangnya agar tetap terkendali
 2.fitur tabungan untuk setiap bulannya yang akan dipotong setiap uang yang masuk dalam 1 hari tiap bulanya
 3.pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar user mudah dalam menggunakan
