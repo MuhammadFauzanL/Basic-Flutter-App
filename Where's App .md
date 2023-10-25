@@ -56,7 +56,7 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 erDiagram
 USER ||--o{ Keuangan : Choose
 USER {
-int ser_id
+int id
 varchar username
 varchar email
 varchar password
