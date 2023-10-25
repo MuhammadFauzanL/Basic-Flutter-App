@@ -51,16 +51,15 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 
 ## 3. Struktur Data
 
-Entity Relationship Diagrams 
-'''mermaid
-    erDiagram
-        USER ||--o{ Keuangan : Choose
-        USER {
-        int user_id
+
+```mermaid
+erDiagram
+USER ||--o{ Keuangan : Choose
+USER {
+int ser_id
         varchar username
         varchar email
         varchar password
-
         }
         MOOD ||--|{ ACTIVITY : contains
         MOOD {
@@ -76,7 +75,7 @@ Entity Relationship Diagrams
             int korelasi_mood
         }
 ```
-
+   
 ## 4. Arsitektur Sistem
 
 ```mermaid
