@@ -16,10 +16,11 @@ Aplikasi ini Memiliki fitur yang membantu para usernya supaya pengguna dapat mer
 4.Terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya
 5. Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 ## 2. User Story
+NO | Target(Personal,fungsi dan tujuan |rate | 
+---|---|---|
+1| Sebagai seorang User, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
 
-    NO|Target(Personal) , Fungsi dan Tujuan | Rate
-    ---|---|---
-1 | Sebagai seorang User, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |⭐⭐⭐⭐⭐ | 
+ 
 
 
 ## 3. Struktur Data
