@@ -94,7 +94,7 @@ varchar edit nominal_Uang
 - Framework : Flutter
 
 ## 6. Desain User Experience dan User Interface
-
+https://www.figma.com/file/eUDoMdCKUg5AyNVa0EoPrM/Untitled?type=design&node-id=11%3A5&mode=design&t=Qch7mjP9EcN1sqOy-1
 ## 7. Demonstrasi Video
 
 Link youtube nya
