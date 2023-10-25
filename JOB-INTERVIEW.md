@@ -19,6 +19,13 @@ Aplikasi ini Memiliki fitur yang membantu para usernya supaya pengguna dapat mer
 NO | Target(Personal,fungsi dan tujuan |rate | 
 ---|---|---|
 1| Sebagai seorang User, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
+2|Sebagai seorang mahasiswa,saya ingin memiliki fitur notes untuk membuat catatan agar saya dapat menggunakanya sebagai pengingat ketika saya mengeluarkan uang |⭐⭐⭐⭐|
+3|Sebagai seorang Pengelola keuangan UMKM, saya ingin memiliki Kumpulan data /Charts agar saya dapat menggunakan charts tersebut sebagai untuk membandungkan data-data yang pernah ada sebelumnya dan melihat perbedaanya |⭐⭐⭐|
+4|---|---|
+5|---|---|
+6|---|---|
+7|---|---|
+---|---|---|
 
  
 
