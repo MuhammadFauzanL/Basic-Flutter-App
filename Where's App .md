@@ -61,8 +61,8 @@ varchar username
 varchar email
 varchar password
  }
-Variables ||--|{ ACTIVITY : contains
-Variables {
+Keuangan ||--|{ ACTIVITY : contains
+Keuangan {
 int jumlah_id
  varchar nama_jenis
 varchar deskripsi_Uang
