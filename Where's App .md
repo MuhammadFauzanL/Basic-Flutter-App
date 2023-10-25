@@ -26,6 +26,17 @@ Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyaman
 4. Fitur Chart, berfungsi sebagai pembanding anda dalam mengeluarkan atau memasukan data sebelumnya yang berbentuk Pie Chart 
 5. Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 
+Target User :
+ Usia 6+
+ 
+ 1. Siswa dan mahasiswa yang sering kesulitan dalam mencatat keuangan mereka.
+ 2. Seorang pekerja yang memiliki waktu yang padat setiap harinya dan tidak memiliki waktu untuk melakukan kegiatan yang membutuhkan waktu yang lama.
+ 3. Ibu Rumah tangga yang memiliki kesulitan dalam mengatur keuangan dalam rua=mah tangga.
+ 4. Orang yang peduli tentang keuangan yang dimiliki dan ingin menjanganya agar keuangan tetap terjaga.
+ 5. Orang-orang yang mencari solusi dalam meningkatkan kestabilann pengelolaan keuangan
+ 6. Seorang pengusaha yang ingin memiliki pencatatan keuntungan, kerugian usahanya 
+
+
 ## 2. User Story
 NO | Target(Personal,fungsi dan tujuan |Prioritas| 
 ---|---|---|
@@ -37,9 +48,6 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 6|Sebagai seorang user, saya ingin memiliki fitur untuk mengedit data agar hal tersebut dapat membantu saya dalam mengedit data yang memiliki kesalahan|⭐⭐⭐⭐⭐|
 7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikasiagar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
 8|Sebagau seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat danya kembali ketika dibutuhkan |⭐⭐⭐⭐
-
- 
-
 
 ## 3. Struktur Data
 
