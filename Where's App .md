@@ -61,11 +61,12 @@ varchar username
 varchar email
 varchar password
  }
-Keuangan ||--|{ ACTIVITY : contains
+ ||--|{ ACTIVITY : contains
 Variables {
 int jumlah_id
- varchar nama_pengeluaran
-varchar deskripsi_Pengeluaran
+ varchar nama_jenis
+varchar deskripsi_Uang
+varchar nominal_Uang
  }
 ACTIVITY {
  int activity_id
