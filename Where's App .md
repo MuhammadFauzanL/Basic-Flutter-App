@@ -84,20 +84,16 @@ varchar edit nominal_Uang
 ```mermaid
     flowchart TD
         subgraph ide1 [Cloud]
-        id1[(Database: MySQL)] <--> id2(Aplikasi Web Backend: PHP)
-        id2(Aplikasi Web Backend: PHP) <--> id3(Web Server: Apache HTTP Server)
-        end
-        id3(Web Server: Apache HTTP Server) <--> id4(Aplikasi Web: HTML, CSS-Bootstrap, JavaScript)
+        id1[(Database: MySQL)] <--> id2(Aplikasi Web Backend: )
+      
 ```
 
 ## 5. Teknologi, Library, dan Framework
-
-bla bla bla
+- Bahasa Pemrograman:JavaScript
+- Basis Data: MySQL.
+- Framework : Flutter
 
 ## 6. Desain User Experience dan User Interface
-
-Bisa load image 
-![Contoh](https://fastly.picsum.photos/id/318/536/354.jpg?hmac=Ixy-wle80nudIR_cmnF1iY2y6rMUH7_9sk-BP1fTpM8)
 
 ## 7. Demonstrasi Video
 
