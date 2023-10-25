@@ -36,6 +36,7 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 5| Sebagai seorang user, saya ingin memiliki fitur untuk menghapus sebuah data agar  membantu saya dalam menghapus data yang sudah saya tidak inginkan|⭐⭐⭐⭐⭐|
 6|Sebagai seorang user, saya ingin memiliki fitur untuk mengedit data agar hal tersebut dapat membantu saya dalam mengedit data yang memiliki kesalahan|⭐⭐⭐⭐⭐|
 7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikasiagar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
+8|Sebagau seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat danya kembali ketika dibutuhkan |⭐⭐⭐⭐
 
  
 
