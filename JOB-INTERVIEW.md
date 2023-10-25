@@ -1,5 +1,4 @@
 ## 1. Where's App
-## Menyimpan Keuangan Tanpa Kebingungan (Tagline)
 
 ## 1.1 Latar Belakang
 Aplikasi " Where's App" ini dibentuk karena kita sebagai Mahasiswa ataupun masyarakat biasanya memiliki kendala pada masalah pengeluaran uang pada setiap harinya,terkadang kita terlalu banyak menghabiskan uang yang kita miliki namun tidak mengetahui bahwa uang yang dikeluarkan berapa nominalnya dan kemana arah perginya, dengan itu kita  aplikasi ini dapat mengatur uang yang masuk dan keluar agar teratur, 
@@ -18,23 +17,25 @@ Dengan Applikasi "Where'App" anda mendapaatkan keunggulan sebagai berikut:
 
 
 ## 1.3. Branding
-Aplikasi "Where's App" Memiliki fitur yang membantu para usernya supaya pengguna dapat merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi "Where's App"ini  diantarnya terdapat :
-1.fitur pembatas keuangan, fitur ini berfungsi sebagai pembatas keluarnya pengeluaran berbentuk persentase, jika pengguna melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya, fitur ini berfungsi agar pengguna dapat menjaga pengeluarnya uangnya agar tetap terkendali
-2.fitur tabungan untuk setiap bulannya yang akan dipotong setiap uang yang masuk dalam 1 hari tiap bulanya
-3.pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar user mudah dalam menggunakan
-4.Terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya
+Tagline : Menyimpan Keuangan Tanpa Kebingungan 
+Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi "Where's App"ini  diantarnya terdapat :
+
+1.Fitur pembatas keuangan, fitur ini berfungsi sebagai pembatas keluarnya pengeluaran berbentuk persentase, jika anda melebihi dari yang dibataskan anda  akan diberikan peringatan untuk menjaga pengeluarannya, fitur ini berfungsi agar anda dapat menjaga pengeluarnya uangnya agar tetap terjaga
+2.Fitur tabungan, Fitur ini membantu anda dalam menyimpan keuangan
+3.Fitur pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar anda mudah dalam mengoprasikan aplikasi "Where'App"
+4. Fitur Chart, berfungsi sebagai pembanding anda dalam mengeluarkan atau memasukan data sebelumnya yang berbentuk Pie Chart 
 5. Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
+
 ## 2. User Story
-NO | Target(Personal,fungsi dan tujuan |rate | 
+NO | Target(Personal,fungsi dan tujuan |Prioritas| 
 ---|---|---|
-1| Sebagai seorang User berusia 50 tahun, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
-2|Sebagai seorang mahasiswa,saya ingin memiliki fitur notes untuk membuat catatan agar saya dapat menggunakanya sebagai pengingat ketika saya mengeluarkan uang |⭐⭐⭐⭐|
+1| Sebagai seorang User berusia 50 tahun, saya ingin memiliki kemudahan dalam menggunaka aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
+2|Sebagai seorang mahasiswa,saya ingin memiliki  notes untuk membuat catatan agar saya dapat menggunakanya sebagai pengingat ketika saya mengeluarkan uang |⭐⭐⭐⭐|
 3|Sebagai seorang Pengelola keuangan UMKM, saya ingin memiliki Kumpulan data /Charts agar saya dapat menggunakan charts tersebut sebagai untuk membandungkan data-data yang pernah ada sebelumnya dan melihat perbedaanya |⭐⭐⭐|
 4| Sebagai seorang user, saya ingin memiliki fitur untuk menambah suatu data agar saya dapat menambahkan data tersebut dalam aplikasi|⭐⭐⭐⭐⭐|
 5| Sebagai seorang user, saya ingin memiliki fitur untuk menghapus sebuah data agar  membantu saya dalam menghapus data yang sudah saya tidak inginkan|⭐⭐⭐⭐⭐|
-6|---|⭐⭐⭐⭐⭐|
-7|---|---|
----|---|---|
+6|Sebagai seorang user, saya ingin memiliki fitur untuk mengedit data agar hal tersebut dapat membantu saya dalam mengedit data yang memiliki kesalahan|⭐⭐⭐⭐⭐|
+7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikasiagar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
 
  
 
