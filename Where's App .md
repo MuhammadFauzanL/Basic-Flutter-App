@@ -68,6 +68,13 @@ int jumlah_id
 varchar deskripsi_Uang
 varchar nominal_Uang
 
+ACTIVITY||--|{ ACTIVITY : contains
+ACTIVITY {
+varchar edit nama_jenis
+varchar edit tdeskripsi_Uang
+varchar edit nominal_Uang
+
+
 
 
  }
