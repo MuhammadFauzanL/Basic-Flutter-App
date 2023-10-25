@@ -54,25 +54,24 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 
 ```mermaid
 erDiagram
-USER ||--o{ Keuangan : Choose
+USER ||--o{ Simpan : Choose
 USER {
 int id
 varchar username
 varchar email
 varchar password
  }
-Keuangan ||--|{ ACTIVITY : contains
-Keuangan {
+Simpan ||--|{ ACTIVITY : contains
+Simpan {
 int jumlah_id
  varchar nama_jenis
 varchar deskripsi_Uang
 varchar nominal_Uang
+
+
+
  }
-ACTIVITY {
- int activity_id
-varchar nama_activity
-varchar deskripsi_activity
-        }
+
 ```
    
 ## 4. Arsitektur Sistem
