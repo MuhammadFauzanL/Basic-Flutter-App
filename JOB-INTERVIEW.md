@@ -18,6 +18,7 @@ Aplikasi ini Memiliki fitur yang membantu para usernya supaya pengguna dapat mer
 ## 2. User Story
 
     NO|Target(Personal) , Fungsi dan Tujuan | Rate
+    ---|---|---
 1|Sebagai seorang User, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan (Bintang 5) |⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
