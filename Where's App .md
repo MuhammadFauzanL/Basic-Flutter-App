@@ -61,7 +61,7 @@ varchar username
 varchar email
 varchar password
  }
- ||--|{ ACTIVITY : contains
+Variables ||--|{ ACTIVITY : contains
 Variables {
 int jumlah_id
  varchar nama_jenis
