@@ -1,4 +1,4 @@
-## 1 WHERE'S APP
+## 1 Where's App
 ## Menyimpan Keuangan Tanpa Kebingungan (Tagline)
 
 ## 1.1 Latar Belakang
@@ -17,9 +17,8 @@ Aplikasi ini Memiliki fitur yang membantu para usernya supaya pengguna dapat mer
 5. Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 ## 2. User Story
 
-    Target(Personal) | Fungsi  | Tujuan | Rate
----|---|---|---
-bla | bla | bla | ⭐⭐⭐⭐⭐
+    NO|Target(Personal) , Fungsi dan Tujuan | Rate
+1|Sebagai seorang User, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan (Bintang 5) |⭐⭐⭐⭐⭐
 
 ## 3. Struktur Data
 
