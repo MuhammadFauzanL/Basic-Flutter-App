@@ -61,22 +61,25 @@ varchar username
 varchar email
 varchar password
  }
-}
 
-Simpan ||--|{ ACTIVITY : contains
+
+Simpan ||--|{ Keluar : contains
 Simpan {
 int jumlah_id
  varchar nama_jenis
 varchar deskripsi_Uang
 varchar nominal_Uang
 }
-}
+
 ACTIVITY{
 varchar edit nama_jenis
 varchar edit tdeskripsi_Uang
 varchar edit nominal_Uang
 }
-
+Keluar{
+varchar edit nama_jenis
+varchar edit tdeskripsi_Uang
+varchar edit nominal_Uang
 ```
    
 ## 4. Arsitektur Sistem
