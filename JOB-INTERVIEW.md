@@ -10,7 +10,8 @@ Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana dan fitur yang me
 "Where's App" Adalah Aplikasi pencatat keuangan untuk mencatat keuangan seseorang yang masuk dan keluarnya uang namun memiliki banyak keunggulannya
 yanh di desain dengan  iterface yang sederhana membantu pengguna dalam menggunakan aplikasi(interaktif).
 
-Dengan Applikasi "Where'App" anda mendapaatkan keunggulan sebagai berikut.
+Dengan Applikasi "Where'App" anda mendapaatkan keunggulan sebagai berikut:
+
 1. Menyimpan Keuangan  : "Where's App dapat membantu Anda menambahkan ,mengedit ,dan menghapus data anda yang sudah tidak terpakai lagi
 2. Menjaga Keuangan    : dengan aplikasi anda memiliki pembatas keluarnya pengeluaran , dan pengguna anda diberikan peringatan untuk menjaga                  pengeluarannya agar keuangan anda tetap terjaga.
 3. Menganalisis Keuangan : dengan "Where's App"Anda dapat melihat pembanding pengeluaran tiap bulan atau tiap tahuunnya ,dan anda dapat menjelajah            history uang yang masuk atau keluar 
