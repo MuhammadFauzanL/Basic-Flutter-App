@@ -1,8 +1,9 @@
-## 1 Where's App
+## 1. Where's App
 ## Menyimpan Keuangan Tanpa Kebingungan (Tagline)
 
 ## 1.1 Latar Belakang
-Pembuatan aplikasi ini dibentuk karena kita sebagai Mahasiswa biasanya memiliki kendala pada masalah pengeluaran uang pada setiap harinya,terkadang kita terlalu banyak menghabiskan uang yang kita miliki namun tidak mengetahui bahwa uang yang dikeluarkan berapa nominalnya dan kemana perginya, dengan itu kita membutuhkan aplikasi ini untuk mengatur uang yang masuk dan keluar agar tidak berlebihan 
+Aplikasi " Where's App" ini dibentuk karena kita sebagai Mahasiswa ataupun masyarakat biasanya memiliki kendala pada masalah pengeluaran uang pada setiap harinya,terkadang kita terlalu banyak menghabiskan uang yang kita miliki namun tidak mengetahui bahwa uang yang dikeluarkan berapa nominalnya dan kemana arah perginya, dengan itu kita  aplikasi ini dapat mengatur uang yang masuk dan keluar agar teratur, 
+Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,terkedang applikasi kebanyakan yang memiliki interface yang sulit untuk dipahami ileh semua orang  
 
 ## 1.2. Deksripsi Teknologi Informasi
 Aplikasi pencatat keuangan ini seperti aplikasi pencatat pada umumnya untuk mencatat keuangan seseorang yang masuk dan keluarnya uang,kita dapat menambahkan ,mengedit ,dan menghapus data kita dalam catatatn keuagangan kita  ,didalam aplikasi ini memiliki beberapa fitur diantaaranya, memiliki pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya, fitur tabungan untuk mencatat penyimpanan uang, lalu terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya ,dan terakhir Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
@@ -18,12 +19,12 @@ Aplikasi ini Memiliki fitur yang membantu para usernya supaya pengguna dapat mer
 ## 2. User Story
 NO | Target(Personal,fungsi dan tujuan |rate | 
 ---|---|---|
-1| Sebagai seorang User, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
+1| Sebagai seorang User berusia 50 tahun, saya ingin memiliki kemudahan dalam menggunakam aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
 2|Sebagai seorang mahasiswa,saya ingin memiliki fitur notes untuk membuat catatan agar saya dapat menggunakanya sebagai pengingat ketika saya mengeluarkan uang |⭐⭐⭐⭐|
 3|Sebagai seorang Pengelola keuangan UMKM, saya ingin memiliki Kumpulan data /Charts agar saya dapat menggunakan charts tersebut sebagai untuk membandungkan data-data yang pernah ada sebelumnya dan melihat perbedaanya |⭐⭐⭐|
-4|---|---|
-5|---|---|
-6|---|---|
+4| Sebagai seorang user, saya ingin memiliki fitur untuk menambah suatu data agar saya dapat menambahkan data tersebut dalam aplikasi|⭐⭐⭐⭐⭐|
+5| Sebagai seorang user, saya ingin memiliki fitur untuk menghapus sebuah data agar  membantu saya dalam menghapus data yang sudah saya tidak inginkan|⭐⭐⭐⭐⭐|
+6|---|⭐⭐⭐⭐⭐|
 7|---|---|
 ---|---|---|
 
