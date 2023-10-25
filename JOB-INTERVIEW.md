@@ -3,10 +3,17 @@
 
 ## 1.1 Latar Belakang
 Aplikasi " Where's App" ini dibentuk karena kita sebagai Mahasiswa ataupun masyarakat biasanya memiliki kendala pada masalah pengeluaran uang pada setiap harinya,terkadang kita terlalu banyak menghabiskan uang yang kita miliki namun tidak mengetahui bahwa uang yang dikeluarkan berapa nominalnya dan kemana arah perginya, dengan itu kita  aplikasi ini dapat mengatur uang yang masuk dan keluar agar teratur, 
-Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,terkedang applikasi kebanyakan yang memiliki interface yang sulit untuk dipahami ileh semua orang  
+
+Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,karena terkedang aplikasi kebanyakan yang memiliki interface yang sulit untuk dipahami oleh semua orang  
 
 ## 1.2. Deksripsi Teknologi Informasi
-Aplikasi pencatat keuangan ini seperti aplikasi pencatat pada umumnya untuk mencatat keuangan seseorang yang masuk dan keluarnya uang,kita dapat menambahkan ,mengedit ,dan menghapus data kita dalam catatatn keuagangan kita  ,didalam aplikasi ini memiliki beberapa fitur diantaaranya, memiliki pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan pengguna akan diberikan peringatan untuk menjaga pengeluarannya, fitur tabungan untuk mencatat penyimpanan uang, lalu terdapat Pie Chart pada widget agar pengguna dapat membandingkan pengeluaran tiap bulan atau tiap tahuunnya ,dan terakhir Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
+"Where's App" Adalah Aplikasi pencatat keuangan untuk mencatat keuangan seseorang yang masuk dan keluarnya uang namun memiliki banyak keunggulannya
+yanh di desain dengan  iterface yang sederhana membantu pengguna dalam menggunakan aplikasi(interaktif).
+
+Dengan Applikasi "Where'App" anda mendapaatkan keunggulan sebagai berikut.
+      Menyimpan Keuangan  : "Where's App dapat membantu Anda menambahkan ,mengedit ,dan menghapus data anda yang sudah tidak terpakai lagi
+      Menjaga Keuangan    : dengan aplikasi anda memiliki pembatas keluarnya pengeluaran berbentuk persenan, jika melebihi dari yang dibataskan                  pengguna anda akan diberikan peringatan untuk menjaga pengeluarannya agar keuangan anda tetap terjaga.
+      Menganalisis Keuangan : dengan "Where's App"Anda dapat melihat pembanding pengeluaran tiap bulan atau tiap tahuunnya dengan data berbentuk charts          ,dan anda dapat menjelajah   history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 
 
 ## 1.3. Branding
