@@ -29,7 +29,7 @@ Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyaman
 Target User :
  Usia 6+
  
- 1. Siswa dan mahasiswa yang sering kesulitan dalam mencatat keuangan mereka.
+ 1. Siswa dan mahasiswa yang sering kesulitan dalam mencatat keuangannya.
  2. Seorang pekerja yang memiliki waktu yang padat setiap harinya dan tidak memiliki waktu untuk melakukan kegiatan yang membutuhkan waktu yang lama.
  3. Ibu Rumah tangga yang memiliki kesulitan dalam mengatur keuangan dalam rua=mah tangga.
  4. Orang yang peduli tentang keuangan yang dimiliki dan ingin menjanganya agar keuangan tetap terjaga.
