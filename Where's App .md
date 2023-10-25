@@ -67,9 +67,8 @@ int jumlah_id
  varchar nama_jenis
 varchar deskripsi_Uang
 varchar nominal_Uang
-
-ACTIVITY||--|{ ACTIVITY : contains
-ACTIVITY {
+}
+ACTIVITY{
 varchar edit nama_jenis
 varchar edit tdeskripsi_Uang
 varchar edit nominal_Uang
