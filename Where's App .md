@@ -57,22 +57,20 @@ erDiagram
 USER ||--o{ Keuangan : Choose
 USER {
 int ser_id
-        varchar username
-        varchar email
-        varchar password
-        }
-        MOOD ||--|{ ACTIVITY : contains
-        MOOD {
-            int mood_id
-            varchar nama_mood
-            varchar deskripsi_mood
-        }
-        ACTIVITY {
-            int activity_id
-            varchar nama_activity
-            varchar deskripsi_activity
-            varchar kategori_mood
-            int korelasi_mood
+varchar username
+varchar email
+varchar password
+ }
+Keuangan ||--|{ ACTIVITY : contains
+Variables {
+int jumlah_id
+ varchar nama_pengeluaran
+varchar deskripsi_Pengeluaran
+ }
+ACTIVITY {
+ int activity_id
+varchar nama_activity
+varchar deskripsi_activity
         }
 ```
    
