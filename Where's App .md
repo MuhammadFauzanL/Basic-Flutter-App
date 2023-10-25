@@ -51,17 +51,42 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 
 ## 3. Struktur Data
 
-Cara membuat aneka macam bentuk grafik menggunakan mermaid.js bisa lihat di [https://mermaid.js.org/syntax/entityRelationshipDiagram.html](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) 
+Entity Relationship Diagrams 
+'''mermaid
+    erDiagram
+        USER ||--o{ Keuangan : Choose
+        USER {
+        int user_id
+        varchar username
+        varchar email
+        varchar password
 
-```mermaid
-erDiagram
-    RUJAK ||--o{ SAYUR : tersusun
-    PEMBELI ||--|{ RUJAK : beli
+        }
+        MOOD ||--|{ ACTIVITY : contains
+        MOOD {
+            int mood_id
+            varchar nama_mood
+            varchar deskripsi_mood
+        }
+        ACTIVITY {
+            int activity_id
+            varchar nama_activity
+            varchar deskripsi_activity
+            varchar kategori_mood
+            int korelasi_mood
+        }
 ```
 
 ## 4. Arsitektur Sistem
 
-Masih pake mermaid.js juga bisa lihat flowchart di [https://mermaid.js.org/syntax/flowchart.html](https://mermaid.js.org/syntax/flowchart.html)
+```mermaid
+    flowchart TD
+        subgraph ide1 [Cloud]
+        id1[(Database: MySQL)] <--> id2(Aplikasi Web Backend: PHP)
+        id2(Aplikasi Web Backend: PHP) <--> id3(Web Server: Apache HTTP Server)
+        end
+        id3(Web Server: Apache HTTP Server) <--> id4(Aplikasi Web: HTML, CSS-Bootstrap, JavaScript)
+```
 
 ## 5. Teknologi, Library, dan Framework
 
