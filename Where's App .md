@@ -58,26 +58,41 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 erDiagram
     USER ||..o{ DATA : MEMBUAT
 USER{
-    int id_pengguna
-}
+    string nama_pengguna
+    datetime Waktu_Pengguna
 
+}
+ DATA ||..o{ CHART : MEMBUAT
+CHART{
+    string Judul_Data
+    int Angka_Data
+}
     
     DATA 
 DATA {
     string Judul_Data
     int Angka_Data
+    datetime Waktu_Publikasi
+
+    
 
 }
-
-
+   USER ||..o{ DATA : MENGHAPUS
+   USER ||..o{ DATA : MENGEDIT
     USER||..o{ NOTES: MEMBUAT
-
+    USER||..o{ NOTES: MENGEDIT
+    USER||..o{ NOTES: MENGHAPUS
 
     NOTES
     NOTES{
         string Judul_Data
         int Angka_Data
+        datetime Waktu_Publikasi
     }
+
+
+   
+
 ```
 ## 4. Arsitektur Sistem
 
