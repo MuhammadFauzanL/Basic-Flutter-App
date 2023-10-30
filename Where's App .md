@@ -77,6 +77,7 @@ DATA {
     
 
 }
+USER ||..o{ DATA : MENCARI
    USER ||..o{ DATA : MENGHAPUS
    USER ||..o{ DATA : MENGEDIT
     USER||..o{ NOTES: MEMBUAT
@@ -91,7 +92,11 @@ DATA {
     }
 
 
+
+
+
    
+
 
 ```
 ## 4. Arsitektur Sistem
