@@ -55,37 +55,30 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 
 ## 3. Struktur Data
 
-
-```mermaid
 erDiagram
-USER ||--o{ Simpan : Choose
-USER {
-int id
-varchar username
-varchar email
-varchar password
- }
-
-
-Simpan ||--|{ Keluar : contains
-Simpan {
-int jumlah_id
- varchar nama_jenis
-varchar deskripsi_Uang
-varchar nominal_Uang
+    USER ||..o{ DATA : MEMBUAT
+USER{
+    int id_pengguna
 }
 
-ACTIVITY{
-varchar edit nama_jenis
-varchar edit tdeskripsi_Uang
-varchar edit nominal_Uang
+    
+    DATA 
+DATA {
+    string Judul_Data
+    int Angka_Data
+
 }
-Keluar{
-varchar edit nama_jenis
-varchar edit tdeskripsi_Uang
-varchar edit nominal_Uang
-```
-   
+
+
+    USER||..o{ NOTES: MEMBUAT
+
+
+    NOTES
+    NOTES{
+        string Judul_Data
+        int Angka_Data
+    }
+
 ## 4. Arsitektur Sistem
 
 ```mermaid
