@@ -102,15 +102,14 @@ USER ||..o{ DATA : MENCARI
 ## 4. Arsitektur Sistem
 
 ```mermaid
-    flowchart TD
-        subgraph ide1 [Cloud]
-        id1[(Database: MySQL)] <--> id2(Aplikasi Web Backend: )
+    
       
 ```
 
 ## 5. Teknologi, Library, dan Framework
-- Bahasa Pemrograman:JavaScript
-- Basis Data: MySQL.
+- Bahasa Pemrograman:Dart
+- Basis Data: MongodB
+- Library : CalenderAppBar,syncfusion_flutter_charts_,google_fonts,flutter_typeahead
 - Framework : Flutter
 
 ## 6. Desain User Experience dan User Interface
