@@ -91,13 +91,6 @@ USER ||..|{ DATA : MENCARI
         datetime Waktu_Publikasi
     }
 
-
-
-
-
-   
-
-
 ```
 ## 4. Arsitektur Sistem
 
