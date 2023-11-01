@@ -92,13 +92,12 @@ USER ||..|{ DATA : MENCARI
         int Angka_Data
         datetime Waktu_Publikasi
     }
-    ```
+```
+
 ## 4. Arsitektur Sistem
 
-```mermaid
-    
-      
-```
+
+
 
 ## 5. Teknologi, Library, dan Framework
 - Bahasa Pemrograman:Dart
