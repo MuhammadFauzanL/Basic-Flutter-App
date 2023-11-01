@@ -54,7 +54,9 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 8|Sebagau seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat danya kembali ketika dibutuhkan |⭐⭐⭐⭐
 
 ## 3. Struktur Data
+
 ```mermaid
+
 erDiagram
     USER ||..o{ DATA : MEMBUAT
 USER{
