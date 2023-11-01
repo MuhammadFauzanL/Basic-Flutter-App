@@ -27,9 +27,9 @@ Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyaman
 
 1. Fitur pembatas keuangan, fitur ini berfungsi sebagai pembatas keluarnya pengeluaran berbentuk persentase, jika anda melebihi dari yang dibataskan anda akan diberikan peringatan untuk menjaga pengeluarannya, fitur ini berfungsi agar anda dapat menjaga pengeluarnya uangnya agar tetap terjaga
 
-2.Fitur tabungan, Fitur ini membantu anda dalam menyimpan keuangan
+2. Fitur tabungan, Fitur ini membantu anda dalam menyimpan keuangan
 
-3.Fitur pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar anda mudah dalam mengoprasikan aplikasi "Where'App"
+3. Fitur pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar anda mudah dalam mengoprasikan aplikasi "Where'App"
 
 4. Fitur Chart, berfungsi sebagai pembanding anda dalam mengeluarkan atau memasukan data sebelumnya yang berbentuk Pie Chart 
 
