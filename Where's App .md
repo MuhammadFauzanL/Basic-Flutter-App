@@ -102,8 +102,8 @@ DATA {
 
     }
 
-    DATA ||..o{ Search: MENCARI
-      NOTES ||..o{ Search: MENCARI
+    DATA ||..|{ Search: MENCARI
+      NOTES ||..|{ Search: MENCARI
 ```
 
 ## 4. Arsitektur Sistem
