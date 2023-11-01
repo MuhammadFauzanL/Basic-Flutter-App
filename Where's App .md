@@ -26,9 +26,13 @@ Tagline : Menyimpan Dengan Arah
 Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi "Where's App"ini  diantarnya terdapat :
 
 1. Fitur pembatas keuangan, fitur ini berfungsi sebagai pembatas keluarnya pengeluaran berbentuk persentase, jika anda melebihi dari yang dibataskan anda akan diberikan peringatan untuk menjaga pengeluarannya, fitur ini berfungsi agar anda dapat menjaga pengeluarnya uangnya agar tetap terjaga
+
 2.Fitur tabungan, Fitur ini membantu anda dalam menyimpan keuangan
+
 3.Fitur pengeluaran dan pemasukan uang yang dapat dibuat,diedit,dan dihapus agar anda mudah dalam mengoprasikan aplikasi "Where'App"
+
 4. Fitur Chart, berfungsi sebagai pembanding anda dalam mengeluarkan atau memasukan data sebelumnya yang berbentuk Pie Chart 
+
 5. Pengguna dapat menjelajah history uang yang masuk atau keluar yang akan menampilkan kapan uang tersebut dimasukan atau dikeluarkan
 
 Target User :
