@@ -93,6 +93,17 @@ USER ||..|{ DATA : MENCARI
         int Angka_Data
         datetime Waktu_Publikasi
     }
+
+    Search 
+    Search{
+       string Judul_Data
+       int Angka_Data
+       datetime Waktu_Publikasi
+
+    }
+
+    DATA ||..o{ Search: MENCARI
+      NOTES ||..o{ Search: MENCARI
 ```
 
 ## 4. Arsitektur Sistem
