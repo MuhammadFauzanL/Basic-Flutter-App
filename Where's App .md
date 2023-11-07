@@ -51,12 +51,19 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 ---|---|---|
 1| Sebagai seorang User berusia 50 tahun, saya ingin memiliki kemudahan dalam menggunaka aplikasi ,Widget sederhana dan penempatannya yang sesuai agar saya yang awam dapat menggunakannya tanpa ada kesulitan |  ⭐⭐⭐⭐⭐
 2|Sebagai seorang mahasiswa,saya ingin memiliki  notes untuk membuat catatan agar saya dapat menggunakanya sebagai pengingat ketika saya mengeluarkan uang |⭐⭐⭐⭐|
-3|Sebagai seorang Pengelola keuangan UMKM, saya ingin memiliki Kumpulan data /Charts agar saya dapat menggunakan charts tersebut sebagai untuk membandungkan data-data yang pernah ada sebelumnya dan melihat perbedaanya |⭐⭐⭐|
+3|Sebagai seorang Pengelola keuangan UMKM, saya ingin memiliki Kumpulan data /Charts agar saya dapat menggunakan charts tersebut sebagai untuk membandingkan data-data yang pernah ada sebelumnya dan melihat perbedaanya |⭐⭐⭐|
 4| Sebagai seorang user, saya ingin memiliki fitur untuk menambah suatu data agar saya dapat menambahkan data tersebut dalam aplikasi|⭐⭐⭐⭐⭐|
 5| Sebagai seorang user, saya ingin memiliki fitur untuk menghapus sebuah data agar  membantu saya dalam menghapus data yang sudah saya tidak inginkan|⭐⭐⭐⭐⭐|
-6|Sebagai seorang user, saya ingin memiliki fitur untuk mengedit data agar hal tersebut dapat membantu saya dalam mengedit data yang memiliki kesalahan|⭐⭐⭐⭐⭐|
-7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikasiagar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
-8|Sebagau seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat danya kembali ketika dibutuhkan |⭐⭐⭐⭐
+6|Sebagai seorang user, saya ingin memiliki fitur untuk mengedit data agar hal tersebut dapat membantu saya dalam mengedit data yang terdapat kesalahan|⭐⭐⭐⭐⭐|
+7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikas iagar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
+8|Sebagai seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat datanya kembali ketika dibutuhkan |⭐⭐⭐⭐
+9|Sebagai seorang user saya ingin mencari catatan yang telah ditambahkan dalam aplikasi agar  saya dapat melihat datanya kembali ketika dibutuhkan|⭐⭐⭐⭐
+10|Sebagai seorang user saya ingin data setiap hari menyusun sesuai dengan urutan alfabetnya|⭐⭐⭐
+11|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya simpan|⭐⭐⭐⭐
+12|Sebagai seorang user saya ingin aktivitas riwayat note data saya yang telah saya simpan|⭐⭐⭐⭐
+1|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya hapus dari daftar keuangan|⭐⭐⭐
+12|Sebagai seorang user saya ingin aktivitas riwayat catatan data saya yang telah saya hapus dari catatan keuangan|⭐⭐⭐
+
 
 ## 3. Struktur Data
 
