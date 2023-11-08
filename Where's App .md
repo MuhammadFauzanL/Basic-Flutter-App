@@ -73,10 +73,10 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 15|Sebagai seorang user saya ingin mendapatkan privasi keamanan dan kenyamanan ketika menggunakan aplikasi|⭐⭐⭐⭐⭐
 16|Sebagai seorang user saya ingin masuk ke akun saya dengan mudah dengan akun yang sudah saya daftarkan |⭐⭐⭐⭐
 17|Sebagai seorang user saya ingin memiliki pengaturan pada aplikasi agar saya dapat dengan mudah merubah dengan hal yang saya inginkan|⭐⭐⭐⭐⭐
-18|Sebagai seorang user saya ingin mengunjungi profil saya pada pengaturan|
-19|Sebagai seorang user saya ingin memiliki foto profile pengguna|⭐⭐
-20|Sebagai seorang user saya ingin dapat mengganti foto profile saya|⭐⭐
-21|Sebagai seorang user saya ingin dapat menghapus foto profile saya |⭐⭐
+18|Sebagai seorang user saya ingin mengunjungi profil saya pada pengaturan|⭐⭐⭐
+19|Sebagai seorang user saya ingin memiliki foto profile pengguna|⭐⭐⭐
+20|Sebagai seorang user saya ingin dapat mengganti foto profile saya|⭐⭐⭐
+21|Sebagai seorang user saya ingin dapat menghapus foto profile saya |⭐⭐⭐
 
 
 
