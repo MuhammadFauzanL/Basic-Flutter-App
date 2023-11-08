@@ -66,11 +66,11 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 10|Sebagai seorang user saya ingin data setiap hari menyusun sesuai dengan urutan alfabetnya|⭐⭐⭐
 11|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya simpan|⭐⭐⭐⭐
 12|Sebagai seorang user saya ingin aktivitas riwayat note data saya yang telah saya simpan|⭐⭐⭐⭐
-1|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya hapus dari daftar keuangan|⭐⭐⭐
+13|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya hapus dari daftar keuangan|⭐⭐⭐
 12|Sebagai seorang user saya ingin aktivitas riwayat catatan data saya yang telah saya hapus dari catatan keuangan|⭐⭐⭐
 13|Sebagai seorang user saya ingin mendaftarkan akun dengan cepat dan mudah|⭐⭐⭐⭐
 14|Sebagai seorang user saya ingin akun yang saya gunakan dapat digunakan di device yang lain agar memudahkan saya ketika berganti device|⭐⭐⭐⭐
-15|Sebagai seorang user saya ingin mendapatkan privasi keamanan dan kenyamanan ketika menggunakan aplikasi⭐⭐⭐⭐⭐
+15|Sebagai seorang user saya ingin mendapatkan privasi keamanan dan kenyamanan ketika menggunakan aplikasi|⭐⭐⭐⭐⭐
 16|Sebagai seorang user saya ingin masuk ke akun saya dengan mudah dengan akun yang sudah saya daftarkan |⭐⭐⭐⭐
 17|Sebagai seorang user saya ingin memiliki pengaturan pada aplikasi agar saya dapat dengan mudah merubah dengan hal yang saya inginkan|⭐⭐⭐⭐⭐
 18|Sebagai seorang user saya ingin mengunjungi profil saya pada pengaturan|
