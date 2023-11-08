@@ -5,6 +5,8 @@ Aplikasi " Where's App" ini dibentuk sebagai solusi bagi sesorang dalam mengatur
 
 Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,karena terkedang aplikasi kebanyakan yang memiliki interface yang sulit untuk dipahami oleh semua orang 
 
+Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan 
+
 Mulailah menabung dalam aplikkasi digital, Setiap rupiah yang disimpan adalah langkah menuju kemerdekaan finansial, keamanan, dan kesempatan untuk mewujudkan impian. Setiap langkah kecil menuju tabungan adalah langkah besar menuju kebebasan finansial dan kemandirian.
 
 
@@ -45,6 +47,9 @@ Target User :
  5. Orang-orang yang mencari solusi dalam meningkatkan kestabilann pengelolaan keuangan
  6. Seorang pengusaha yang ingin memiliki pencatatan keuntungan, kerugian usahanya 
 
+
+Warna 
+Homepage :Biru :#0039d9 , kuning : #ffc107 , putih :#ffffff , Hijau :#50b154  , Merah : #f44336  hitam : #030303
 
 ## 2. User Story
 NO | Target(Personal,fungsi dan tujuan |Prioritas| 
