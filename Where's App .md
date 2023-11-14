@@ -76,10 +76,10 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 8|Sebagai seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat datanya kembali ketika dibutuhkan |⭐⭐⭐⭐
 9|Sebagai seorang user saya ingin mencari catatan yang telah ditambahkan dalam aplikasi agar  saya dapat melihat datanya kembali ketika dibutuhkan|⭐⭐⭐⭐
 10|Sebagai seorang user saya ingin data setiap hari menyusun sesuai dengan urutan alfabetnya|⭐⭐⭐
-11|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya simpan|⭐⭐⭐⭐
-12|Sebagai seorang user saya ingin aktivitas riwayat note data saya yang telah saya simpan|⭐⭐⭐⭐
-13|Sebagai seorang user saya ingin aktivitas riwayat data saya yang telah saya hapus dari daftar keuangan|⭐⭐⭐
-12|Sebagai seorang user saya ingin aktivitas riwayat catatan data saya yang telah saya hapus dari catatan keuangan|⭐⭐⭐
+11|Sebagai seorang user saya ingin melihat aktivitas riwayat data saya yang telah saya simpan|⭐⭐⭐⭐
+12|Sebagai seorang user saya ingin melihat aktivitas riwayat note data saya yang telah saya simpan|⭐⭐⭐⭐
+13|Sebagai seorang user saya ingin melihat aktivitas riwayat data saya yang telah saya hapus dari daftar keuangan|⭐⭐⭐
+12|Sebagai seorang user saya ingin melihat aktivitas riwayat catatan data saya yang telah saya hapus dari catatan keuangan|⭐⭐⭐
 13|Sebagai seorang user saya ingin mendaftarkan akun dengan cepat dan mudah|⭐⭐⭐⭐
 14|Sebagai seorang user saya ingin akun yang saya gunakan dapat digunakan di device yang lain agar memudahkan saya ketika berganti device|⭐⭐⭐⭐
 15|Sebagai seorang user saya ingin mendapatkan privasi keamanan dan kenyamanan ketika menggunakan aplikasi|⭐⭐⭐⭐⭐
