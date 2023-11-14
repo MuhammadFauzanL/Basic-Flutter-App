@@ -52,6 +52,8 @@ Warna
 
 
 Homepage :Biru :#0039d9 , kuning : #ffc107 , putih :#ffffff , Hijau :#50b154  , Merah : #f44336  hitam : #030303
+Notespage : 
+
 
 ## 2. User Story
 NO | Target(Personal,fungsi dan tujuan |Prioritas| 
@@ -62,7 +64,7 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 4| Sebagai seorang user, saya ingin memiliki fitur untuk menambah suatu data agar saya dapat menambahkan data tersebut dalam aplikasi|⭐⭐⭐⭐⭐|
 5| Sebagai seorang user, saya ingin memiliki fitur untuk menghapus sebuah data agar  membantu saya dalam menghapus data yang sudah saya tidak inginkan|⭐⭐⭐⭐⭐|
 6|Sebagai seorang user, saya ingin memiliki fitur untuk mengedit data agar hal tersebut dapat membantu saya dalam mengedit data yang terdapat kesalahan|⭐⭐⭐⭐⭐|
-7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikas iagar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
+7|Sebagai seorang user saya ingin melihat panduan penggunaan aplikas agar saya dapat mengerti penggunaan aplikasi|⭐⭐⭐⭐⭐|
 8|Sebagai seorang user saya ingin mencari data yang telah ditambahkan dalam aplikasi agar saya dapat melihat datanya kembali ketika dibutuhkan |⭐⭐⭐⭐
 9|Sebagai seorang user saya ingin mencari catatan yang telah ditambahkan dalam aplikasi agar  saya dapat melihat datanya kembali ketika dibutuhkan|⭐⭐⭐⭐
 10|Sebagai seorang user saya ingin data setiap hari menyusun sesuai dengan urutan alfabetnya|⭐⭐⭐
@@ -79,10 +81,18 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 19|Sebagai seorang user saya ingin memiliki foto profile pengguna|⭐⭐⭐
 20|Sebagai seorang user saya ingin dapat mengganti foto profile saya|⭐⭐⭐
 21|Sebagai seorang user saya ingin dapat menghapus foto profile saya |⭐⭐⭐
-
-
-
-
+22|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Notespage|⭐⭐⭐⭐⭐
+23|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐⭐
+24|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Barpage|⭐⭐⭐⭐⭐
+25|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah kembali ke laman   Homepage|⭐⭐⭐⭐⭐
+26|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah ke laman   Notespage|⭐⭐⭐⭐⭐
+27|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah ke laman Barpage|⭐⭐⭐⭐⭐
+28|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah kembali ke laman   Homepage|⭐⭐⭐⭐⭐
+29|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah ke laman  SearchPage|⭐⭐⭐⭐⭐
+30|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah ke laman  Barpage|⭐⭐⭐⭐⭐
+31|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah kembali ke laman Homepage|⭐⭐⭐⭐⭐
+32|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐⭐
+33|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Notepage|⭐⭐⭐⭐⭐
 ## 3. Struktur Data
 
 ```mermaid
