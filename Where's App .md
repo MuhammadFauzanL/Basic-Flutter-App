@@ -89,21 +89,32 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 19|Sebagai seorang user saya ingin memiliki foto profile pengguna|⭐⭐⭐
 20|Sebagai seorang user saya ingin dapat mengganti foto profile saya|⭐⭐⭐
 21|Sebagai seorang user saya ingin dapat menghapus foto profile saya |⭐⭐⭐
-22|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Notespage|⭐⭐⭐⭐⭐
-23|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐⭐
-24|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Barpage|⭐⭐⭐⭐⭐
-25|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah kembali ke laman   Homepage|⭐⭐⭐⭐⭐
-26|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah ke laman   Notespage|⭐⭐⭐⭐⭐
-27|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah ke laman Barpage|⭐⭐⭐⭐⭐
-28|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah kembali ke laman   Homepage|⭐⭐⭐⭐⭐
-29|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah ke laman  SearchPage|⭐⭐⭐⭐⭐
-30|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah ke laman  Barpage|⭐⭐⭐⭐⭐
-31|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah kembali ke laman Homepage|⭐⭐⭐⭐⭐
-32|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐⭐
-33|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Notepage|⭐⭐⭐⭐⭐
+22|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Notespage|⭐⭐⭐⭐
+23|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐
+24|Sebagai seorang user saya ingin ketika dalam laman Homepage saya dapat berpindah ke laman Barpage|⭐⭐⭐⭐
+25|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah kembali ke laman   Homepage|⭐⭐⭐⭐
+26|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah ke laman   Notespage|⭐⭐⭐⭐
+27|Sebagai seorang user saya ingin ketika dalam laman Searchpage saya dapat berpindah ke laman Barpage|⭐⭐⭐⭐
+28|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah kembali ke laman   Homepage|⭐⭐⭐⭐
+29|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah ke laman  SearchPage|⭐⭐⭐⭐
+30|Sebagai seorang user saya ingin ketika dalam laman NotesPage saya dapat berpindah ke laman  Barpage|⭐⭐⭐⭐
+31|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah kembali ke laman Homepage|⭐⭐⭐⭐
+32|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐
+33|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Notepage|⭐⭐⭐⭐
 34|Sebagai seorang user saya ingin ketika dalam seacrhbar ingin memilik tombol untuk mengclose serachbar tersebut ketika tidak jadi digunakan|⭐⭐⭐
-35|Sebagai seorang user saya ingin memiliki tombol menyimpan atau "Save" dalam penambahan notes untuk menyimpan data yang terlah saya masukan|⭐⭐⭐
-36|Sebagai seorang user saya ingin memiliki tombol menyimpan atau "Save" dalam penambahan catatan keuangan untuk menyimpan data yang terlah saya masukan
+35|Sebagai seorang user saya ingin memiliki tombol menyimpan atau "Save" dalam penambahan notes untuk menyimpan notes yang telah saya masukan|⭐⭐⭐⭐
+36|Sebagai seorang user saya ingin memiliki tombol menyimpan atau "Save" dalam penambahan catatan keuangan untuk menyimpan data yang telah saya masukan|⭐⭐⭐⭐
+37|Sebagai seorang user saya ingin mendapakan nontifikasi untuk mengingat tentang pengeluaran yang terlah dilakukan|
+38|Sebagai seorang user saya ingin mendapatkan keamanan yang terupdate selalu|⭐⭐⭐
+39|Sebagai seorang user saya ingin aplikasi mendapatkan update secara berkala |⭐⭐⭐⭐⭐
+40|Sebagai seorang user saya ingin aplikasi nyaman digunakan terhindar dari bug |⭐⭐⭐⭐⭐
+41|
+
+
+
+
+
+
 ## 3. Struktur Data
 
 ```mermaid
