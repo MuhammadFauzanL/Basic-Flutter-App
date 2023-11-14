@@ -171,6 +171,7 @@ NONTIFIKASI{
     string Judul_Data
     Int Angka_Data
 }
+```
 
 NONTIFIKASI||..o{USER : MENGIRIMKAN
 
