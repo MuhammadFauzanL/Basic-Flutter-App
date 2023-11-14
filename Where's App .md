@@ -93,6 +93,9 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 31|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah kembali ke laman Homepage|⭐⭐⭐⭐⭐
 32|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Searchpage|⭐⭐⭐⭐⭐
 33|Sebagai seorang user saya ingin ketika dalam laman Barpage saya dapat berpindah ke laman Notepage|⭐⭐⭐⭐⭐
+34|Sebagai seorang user saya ingin ketika dalam seacrhbar ingin memilik tombol untuk mengclose serachbar tersebut ketika tidak jadi digunakan|⭐⭐⭐
+35|Sebagai seorang user saya ingin memiliki tombol menyimpan atau "Save" dalam penambahan notes untuk menyimpan data yang terlah saya masukan|⭐⭐⭐
+36|Sebagai seorang user saya ingin memiliki tombol menyimpan atau "Save" dalam penambahan catatan keuangan untuk menyimpan data yang terlah saya masukan
 ## 3. Struktur Data
 
 ```mermaid
