@@ -153,17 +153,26 @@ DATA {
         datetime Waktu_Publikasi
     }
 
-    Search 
-    Search{
+
+SEARCH
+SEARCH{
        string Judul_Data
        int Angka_Data
        datetime Waktu_Publikasi
 
     }
 
-    DATA ||..|{ Search: MENCARI
-      NOTES ||..|{ Search: MENCARI
-```
+    DATA ||..|{ SEARCH: MENCARI
+ NOTES ||..|{ SEARCH: MENCARI
+DATA ||..|{ NONTIFIKASI:MEMBUAT
+
+NONTIFIKASI
+NONTIFIKASI{
+    string Judul_Data
+    Int Angka_Data
+}
+
+NONTIFIKASI||..o{USER : MENGIRIMKAN
 
 ## 4. Arsitektur Sistem
 
