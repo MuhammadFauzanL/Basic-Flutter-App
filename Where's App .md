@@ -9,7 +9,7 @@ Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang m
 
 
 
-Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat
+Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat membuat harga konsumsi lainnya menjadi naik.
 
 Jakarta, CNBC Indonesia( Kepala Badan Pusat Statistik (BPS) |
 ---|
