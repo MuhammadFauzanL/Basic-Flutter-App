@@ -15,6 +15,7 @@ Jakarta, CNBC Indonesia( Kepala Badan Pusat Statistik (BPS) |
 ---|
 Harga beras, gula, dan cabai dalam tren naik.Menurut Amalia, harga gula mengalami kenaikan di 338 kabupaten/ kota di Indonesia, harga beras naik di 283 kabupaten/ kota, dan cabai rawit naik di 259 kabupaten/ kota.Jika melihat data pantauan harga sembako rata-rata harian nasional di tingkat pedagang eceran, Panel Harga Badan Pangan mencatat harga beras hari ini memang masih terpantau mahal| 
 
+![3dcd7376-4c9a-49fa-abcc-3abeb7834107_jpg](https://github.com/MuhammadFauzanL/PengenalanINFORMATIKA/assets/141022549/3b2267c8-ce78-4090-91d7-289b3fd7c4eb)
 
 Mulailah menabung dalam aplikkasi digital, Setiap rupiah yang disimpan adalah langkah menuju kemerdekaan finansial, keamanan, dan kesempatan untuk mewujudkan impian. Setiap langkah kecil menuju tabungan adalah langkah besar menuju kebebasan finansial dan kemandirian.
 
