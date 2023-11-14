@@ -5,12 +5,12 @@ Aplikasi " Where's App" ini dibentuk sebagai solusi bagi sesorang dalam mengatur
 
 Aplikasi "Where's App" ini dapat membantu masyarakat juga dalam meningkatkan kesejahteraan ekonomi pengguna dengan cara meningkatkan pentingnya uang yang dikeluarkan dalam pengeluarannya, terkadang banyak masyarakat yang tidak menyadari betapa pentingnya uang yang dikeluarkan sekecil apapun.
 
-
-
 Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,karena terkedang aplikasi kebanyakan yang memiliki interface yang sulit untuk dipahami oleh semua orang .
 
-Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat 
 
+
+Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat 
+---|---|---|
 |seperti pada Jakarta, CNBC Indonesia - Plt. Kepala Badan Pusat Statistik (BPS)mewanti-wanti harga beras, gula, dan cabai dalam tren naik.
 Menurut Amalia, harga gula mengalami kenaikan di 338 kabupaten/ kota di Indonesia, harga beras naik di 283 kabupaten/ kota, dan cabai rawit naik di 259 kabupaten/ kota.
 Jika melihat data pantauan harga sembako rata-rata harian nasional di tingkat pedagang eceran, Panel Harga Badan Pangan mencatat harga beras hari ini memang masih terpantau mahal| 
