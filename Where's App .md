@@ -11,7 +11,7 @@ Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang m
 
 Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat
 
-NO | | 
+NO | 
 ---|
 seperti pada Jakarta, CNBC Indonesia - Plt. Kepala Badan Pusat Statistik (BPS)mewanti-wanti harga beras, gula, dan cabai dalam tren naik.
 Menurut Amalia, harga gula mengalami kenaikan di 338 kabupaten/ kota di Indonesia, harga beras naik di 283 kabupaten/ kota, dan cabai rawit naik di 259 kabupaten/ kota.
