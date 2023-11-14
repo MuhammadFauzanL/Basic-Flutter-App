@@ -17,7 +17,7 @@ Harga beras, gula, dan cabai dalam tren naik.Menurut Amalia, harga gula mengalam
 
 |Jakarta, Republika.ID (Kementrian Perdagangan Indonesia)|
 |---|
-|BASA|BASO|
+|Per 2022|Per 2023|
 
 
 
