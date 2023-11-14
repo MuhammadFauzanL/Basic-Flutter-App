@@ -31,7 +31,7 @@ Dengan Applikasi "Where's App" anda mendapaatkan keunggulan sebagai berikut:
 
 
 ## 1.3. Branding
-Tagline : Menyimpan Dengan Arah
+Tagline : Menyimpan Dengan Arah-_Save with directions_ 
 
 Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi "Where's App"ini  diantarnya terdapat :
 
@@ -56,9 +56,7 @@ Target User :
  6. Seorang pengusaha yang ingin memiliki pencatatan keuntungan, kerugian usahanya 
 
 
-Warna 
-
-
+Warna :
 Homepage :Biru :#0039d9 , kuning : #ffc107 , putih :#ffffff , Hijau :#50b154  , Merah : #f44336  hitam : #030303
 Notespage : 
 
