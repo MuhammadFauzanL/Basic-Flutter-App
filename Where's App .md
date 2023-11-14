@@ -58,7 +58,8 @@ Target User :
 
 Warna :
 Homepage :  Biru :#0039d9  ,  kuning : #ffc107  ,  putih :#ffffff  ,  Hijau :#50b154   ,   Merah : #f44336   ,   hitam : #030303
-Notespage : 
+
+Notespage : Putih : #fafafa ,  Merah : #f44336 , Black : #000000 , abu #d3d3d3
 
  
 ## 2. User Story
