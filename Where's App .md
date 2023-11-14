@@ -31,7 +31,7 @@ Dengan Applikasi "Where's App" anda mendapaatkan keunggulan sebagai berikut:
 
 
 ## 1.3. Branding
-Tagline : Menyimpan Dengan Arah-_Save with directions_ 
+Tagline : Menyimpan Dengan Arah - _Save with directions_ 
 
 Aplikasi "Where's App" Memiliki fitur yang membantu anda agar merasakan kenyamanan dan kemudahan dalam menggunakan aplikasi "Where's App"ini  diantarnya terdapat :
 
