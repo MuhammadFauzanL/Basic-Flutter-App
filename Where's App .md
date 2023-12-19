@@ -177,7 +177,7 @@ NONTIFIKASI||..o{USER : MENGIRIMKAN
 ```
 ## 4. Arsitektur Sistem
 
-'''mermaid
+```mermaid
 
     graph TD
     subgraph UserManagement
@@ -214,7 +214,7 @@ NONTIFIKASI||..o{USER : MENGIRIMKAN
    
     end
 
-
+```
 
 
 
