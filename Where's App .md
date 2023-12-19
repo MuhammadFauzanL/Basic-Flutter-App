@@ -107,7 +107,6 @@ NO | Target(Personal,fungsi dan tujuan |Prioritas|
 38|Sebagai seorang user saya ingin mendapatkan keamanan yang terupdate selalu|⭐⭐⭐
 39|Sebagai seorang user saya ingin aplikasi mendapatkan update secara berkala |⭐⭐⭐⭐⭐
 40|Sebagai seorang user saya ingin aplikasi nyaman digunakan terhindar dari bug |⭐⭐⭐⭐⭐
-41|
 
 
 
@@ -182,7 +181,8 @@ NONTIFIKASI||..o{USER : MENGIRIMKAN
 
 
 ## 5. Teknologi, Library, dan Framework
-- Bahasa Pemrograman:Dart
+- Bahasa Pemrograman:
+ ** Dart** : Bahasa pemrograman yang umum digunakan untuk pengembangan aplikasi Mobile. Digunakan di sisi klien (front-end) untuk membuat antarmuka pengguna yang responsif dan berinteraksi dengan pengguna.
 - Basis Data: MongodB
 - Library : CalenderAppBar,syncfusion_flutter_charts_,google_fonts,flutter_typeahead
 - Framework : Flutter
