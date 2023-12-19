@@ -6,6 +6,7 @@ Aplikasi " Where's App" ini dibentuk sebagai solusi bagi sesorang dalam mengatur
 Aplikasi "Where's App" ini dapat membantu masyarakat juga dalam meningkatkan kesejahteraan ekonomi pengguna dengan cara meningkatkan pentingnya uang yang dikeluarkan dalam pengeluarannya, terkadang banyak masyarakat yang tidak menyadari betapa pentingnya uang yang dikeluarkan sekecil apapun.
 
 Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,karena terkedang aplikasi kebanyakan yang memiliki interface yang sulit untuk dipahami oleh semua orang .
+|---|
 |IQPlus, (02/05) - Otoritas Jasa Keuangan (OJK) menyebutkan budaya menabung di Indonesia terbilang rendah dibandingkan dengan negara tetangga. Bahkan rasio tabungan terhadap Produk Domestik Bruto (PDB) Indonesia berada di urutan ke-4 setelah Brunei Darussalam, Singapura, dan Thailand.
 
 "Menurut data World Bank, rasio kepemilikan rekening bank pada penduduk usia di atas 15 tahun terbilang rendah yakni pada 2016 baru mencapai 48,9 persen," kata Ketua Dewan Komisioner OJK Wimboh Santoso,Kamis.
