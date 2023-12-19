@@ -177,6 +177,45 @@ NONTIFIKASI||..o{USER : MENGIRIMKAN
 ```
 ## 4. Arsitektur Sistem
 
+'''mermaid
+
+    graph TD
+    subgraph UserManagement
+    User -->|User Data| UserDB[Database]
+    User -->|Profile Management| UserProfile[User Profile Service]
+    end
+
+    subgraph ActivityManagement
+    User -->|Activity Data| ActivityDB[Database]
+    User -->|Activity Creation| ActivityService[Activity Service]
+    ActivityService -->|Notifications| NotificationService[Notification Service]
+    ActivityService -->|Recommendations| RecommendationService[Recommendation Service]
+   
+    end
+
+    
+    subgraph NotificationManagement
+    User -->|Notification Settings| NotificationSettingsDB[Database]
+    NotificationService -->|Notification Delivery| NotificationQueue[Notification Queue]
+    NotificationQueue -->|Notification Service| PushNotificationService[Push Notification Service]
+    
+    end
+
+    subgraph UserInterface
+    User -->|User Interface| WebApp[Mobile Application]
+    WebApp -->|UI Framework| UIComponent[Flutter/Dart]
+
+    end
+    subgraph DataStorage
+    UserDB -->|SQL Database| MySQL[MySQL]
+    ActivityDB -->|NoSQL | MongoDB[MongoDB]
+
+    NotificationSettingsDB -->|SQL Database| PostgreSQL[PostgreSQL]
+   
+    end
+
+
+
 
 
 
