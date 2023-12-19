@@ -13,7 +13,10 @@ IQPlus, (02/05) - Otoritas Jasa Keuangan (OJK) menyebutkan budaya menabung di In
 "Potensi dana masyarakat yang bisa dimobilisasi sebenarnya cukup besar, yaitu dari jumlah pelajar yang mencapai 69,3 juta, mencapai 25,8 persen dari total jumlah penduduk Indonesia, dan jumlah penduduk pada kelompok pemuda dan mahasiswa sebanyak 55 juta," tuturnya. Untuk itu, tambahnya, adalah hal yang penting untuk mengubah mentalitas masyarakat menjadi giat menabung dan berinvestasi untuk kegiatan produktif. "Konsumsi boleh, namun jangan lupa untuk menempatkan sejumlah dana dalam tabungan untuk berjaga-jaga dan juga melakukan investasi guna kesejahteraan di masa depan," pungasnya. |
 
 
+
 Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat membuat harga konsumsi lainnya menjadi naik.
+
+
 
 Jakarta, CNBC Indonesia( Kepala Badan Pusat Statistik (BPS) |
 ---|
