@@ -6,6 +6,7 @@ Aplikasi " Where's App" ini dibentuk sebagai solusi bagi sesorang dalam mengatur
 Aplikasi "Where's App" ini dapat membantu masyarakat juga dalam meningkatkan kesejahteraan ekonomi pengguna dengan cara meningkatkan pentingnya uang yang dikeluarkan dalam pengeluarannya, terkadang banyak masyarakat yang tidak menyadari betapa pentingnya uang yang dikeluarkan sekecil apapun.
 
 Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,karena terkedang aplikasi kebanyakan yang memiliki interface yang sulit untuk dipahami oleh semua orang .
+
 |---|
 |IQPlus, (02/05) - Otoritas Jasa Keuangan (OJK) menyebutkan budaya menabung di Indonesia terbilang rendah dibandingkan dengan negara tetangga. Bahkan rasio tabungan terhadap Produk Domestik Bruto (PDB) Indonesia berada di urutan ke-4 setelah Brunei Darussalam, Singapura, dan Thailand.
 
@@ -15,7 +16,7 @@ Ia menambahkan rata-rata rasio tabungan rumah tangga Indonesia terhadap total pe
 
 "Potensi dana masyarakat yang bisa dimobilisasi sebenarnya cukup besar, yaitu dari jumlah pelajar yang mencapai 69,3 juta, mencapai 25,8 persen dari total jumlah penduduk Indonesia, dan jumlah penduduk pada kelompok pemuda dan mahasiswa sebanyak 55 juta," tuturnya.
 
-Untuk itu, tambahnya, adalah hal yang penting untuk mengubah mentalitas masyarakat menjadi giat menabung dan berinvestasi untuk kegiatan produktif. "Konsumsi boleh, namun jangan lupa untuk menempatkan sejumlah dana dalam tabungan untuk berjaga-jaga dan juga melakukan investasi guna kesejahteraan di masa depan," pungasnya.|
+Untuk itu, tambahnya, adalah hal yang penting untuk mengubah mentalitas masyarakat menjadi giat menabung dan berinvestasi untuk kegiatan produktif. "Konsumsi boleh, namun jangan lupa untuk menempatkan sejumlah dana dalam tabungan untuk berjaga-jaga dan juga melakukan investasi guna kesejahteraan di masa depan," pungasnya. |
 
 
 Data yang didapat pada CNN Indonesia Menteri Keuangan (Menkeu) Sri Mulyani menyindir generasi milenial yang tak paham krisis keuangan , dan banyaknya kenaikan harga pokok yang semakin mencekik masyarakat membuat harga konsumsi lainnya menjadi naik.
