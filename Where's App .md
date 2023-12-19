@@ -7,15 +7,11 @@ Aplikasi "Where's App" ini dapat membantu masyarakat juga dalam meningkatkan kes
 
 Kebutuhan akan aplikasi pencatat keuangan yang Lebih sederhana, dan fitur yang membantu membuat pengguna dari segala kalangan usia dapat menggunakannya,karena terkedang aplikasi kebanyakan yang memiliki interface yang sulit untuk dipahami oleh semua orang .
 
+Jakarta, CNBC Indonesia( Kepala Badan Pusat Statistik (BPS) |
 ---|
-|IQPlus, (02/05) - Otoritas Jasa Keuangan (OJK) menyebutkan budaya menabung di Indonesia terbilang rendah dibandingkan dengan negara tetangga. Bahkan rasio tabungan terhadap Produk Domestik Bruto (PDB) Indonesia berada di urutan ke-4 setelah Brunei Darussalam, Singapura, dan Thailand.
-
-"Menurut data World Bank, rasio kepemilikan rekening bank pada penduduk usia di atas 15 tahun terbilang rendah yakni pada 2016 baru mencapai 48,9 persen," kata Ketua Dewan Komisioner OJK Wimboh Santoso,Kamis.
-
+IQPlus, (02/05) - Otoritas Jasa Keuangan (OJK) menyebutkan budaya menabung di Indonesia terbilang rendah dibandingkan dengan negara tetangga. Bahkan rasio tabungan terhadap Produk Domestik Bruto (PDB) Indonesia berada di urutan ke-4 setelah Brunei Darussalam, Singapura, dan Thailand."Menurut data World Bank, rasio kepemilikan rekening bank pada penduduk usia di atas 15 tahun terbilang rendah yakni pada 2016 baru mencapai 48,9 persen," kata Ketua Dewan Komisioner OJK Wimboh Santoso,Kamis.
 Ia menambahkan rata-rata rasio tabungan rumah tangga Indonesia terhadap total pendapatannya juga relatif rendah yakni hanya sebesar 8,5 persen. Rumah tangga yang memiliki pendapatan paling rendah hanya memiliki rasio tabungan sebesar 5,2 persen, sedangkan rumah tangga Indonesia yang berpendapatan paling tinggi memiliki rasio hanya 12,60 persen.
-
 "Potensi dana masyarakat yang bisa dimobilisasi sebenarnya cukup besar, yaitu dari jumlah pelajar yang mencapai 69,3 juta, mencapai 25,8 persen dari total jumlah penduduk Indonesia, dan jumlah penduduk pada kelompok pemuda dan mahasiswa sebanyak 55 juta," tuturnya.
-
 Untuk itu, tambahnya, adalah hal yang penting untuk mengubah mentalitas masyarakat menjadi giat menabung dan berinvestasi untuk kegiatan produktif. "Konsumsi boleh, namun jangan lupa untuk menempatkan sejumlah dana dalam tabungan untuk berjaga-jaga dan juga melakukan investasi guna kesejahteraan di masa depan," pungasnya. |
 
 
