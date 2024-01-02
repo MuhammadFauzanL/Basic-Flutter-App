@@ -236,7 +236,7 @@ NONTIFIKASI||..o{USER : MENGIRIMKAN
 https://www.figma.com/file/eUDoMdCKUg5AyNVa0EoPrM/Untitled?type=design&node-id=11%3A5&mode=design&t=Qch7mjP9EcN1sqOy-1
 ## 7. Demonstrasi Video
 
-Link youtube nya
+L[ink youtube nya](https://youtu.be/yVQKoluDfP0)
 
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasimu ?
 
